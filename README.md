@@ -24,6 +24,9 @@ https://quartz.jzhao.xyz/layout
 ```bash
 npx quartz build --serve
 
+# listen at 32999
+npx quartz build --serve --port 32999
+
 ---
 npx quartz build --help
 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🐋 Small Pod</title>
+      <link>https://https://github.com/sungmin-woo-devops</link>
+      <description>Last 10 notes on 🐋 Small Pod</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Container Image Optimization</title>
+    <link>https://https:/github.com/sungmin-woo-devops/Docker/container-image-optimization</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/Docker/container-image-optimization</guid>
+    <description>The rest of your content lives here. You can use Markdown here :).</description>
+    <pubDate>Sun, 17 Nov 2024 14:16:00 GMT</pubDate>
+  </item><item>
+    <title>page01</title>
+    <link>https://https:/github.com/sungmin-woo-devops/Docker/page01</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/Docker/page01</guid>
+    <description>page01 docker.</description>
+    <pubDate>Sun, 17 Nov 2024 14:16:00 GMT</pubDate>
+  </item><item>
+    <title>about</title>
+    <link>https://https:/github.com/sungmin-woo-devops/about</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/about</guid>
+    <description>This is about page.</description>
+    <pubDate>Sun, 17 Nov 2024 14:16:00 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://https:/github.com/sungmin-woo-devops/</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Sun, 17 Nov 2024 14:16:00 GMT</pubDate>
+  </item><item>
+    <title>test2</title>
+    <link>https://https:/github.com/sungmin-woo-devops/test2</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/test2</guid>
+    <description>test2.</description>
+    <pubDate>Sun, 17 Nov 2024 14:16:00 GMT</pubDate>
+  </item><item>
+    <title>Example Title</title>
+    <link>https://https:/github.com/sungmin-woo-devops/test</link>
+    <guid>https://https:/github.com/sungmin-woo-devops/test</guid>
+    <description>This is a description.</description>
+    <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
